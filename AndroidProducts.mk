@@ -14,10 +14,10 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_h870.mk
+    $(LOCAL_DIR)/stag_h870.mk
 
 	
 COMMON_LUNCH_CHOICES := \
-    lineage_h870-user \
-    lineage_h870-userdebug \
-    lineage_h870-eng
+    stag_h870-user \
+    stag_h870-userdebug \
+    stag_h870-eng
